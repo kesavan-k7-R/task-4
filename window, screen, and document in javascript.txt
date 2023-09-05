@@ -1,0 +1,7 @@
+- Window is the main JavaScript object root, aka the global object in a browser, and it can also be treated as the root of the document object model (DOM). You can access it as window¹.
+- Screen is a small information object about physical screen dimensions. You can access it as window.screen or just screen¹.
+- Document is the main object of the potentially visible (or better yet: rendered) document object model/DOM. You can access it as window.document or just document¹.
+- Window has properties like length, innerWidth, innerHeight, name, etc. that provide information about the browser tab or frame²³.
+- Document has properties like title, URL, cookie, etc. that provide information about the HTML document loaded into the browser²³.
+- Screen has properties like width, height, colorDepth, pixelDepth, etc. that provide information about the physical screen dimensions².
+
