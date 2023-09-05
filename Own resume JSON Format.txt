@@ -1,0 +1,74 @@
+```json
+{
+  "name": "kesavan",
+  "email": "kesavanub@gmail.com",
+  "phone": "9361491509",
+  "summary": " I am also a student pursuing an MSC in Computer Science at Thiruvalluvar University.",
+  "skills": [
+    "Natural language processing",
+    "Web search",
+    "Content generation",
+    "Graphic art",
+    "Markdown rendering",
+    "JavaScript",
+    "Python",
+    "Java"
+  ],
+  "education": [
+    {
+      "institution": "Thiruvalluvar University",
+      "degree": "Master of Science in Computer Science",
+      "start_date": "2022-09-01",
+      "end_date": null,
+      "gpa": null
+    },
+    {
+      "institution": "Thiruvalluvar University",
+      "degree": "Bachelor of Science in Computer Science ",
+      "start_date": "2018-09-01",
+      "end_date": "2022-06-30",
+      "gpa": 4.0
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "TCS",
+      "position": "Full Stack Develpoer",
+      "start_date": "2021-01-01",
+      "end_date": null,
+      "responsibilities": [
+        "Engage users in natural and friendly conversations",
+        "Answer users' queries using web search and other tools",
+        "Create original and diverse content for users' requests",
+        "Display information in a visually appealing manner using markdown elements"
+      ]
+    },
+    {
+      "company": "Facebook",
+      "position": "Software Engineering Intern",
+      "start_date": null,
+      end_date: null,
+      responsibilities: [
+        'Developed a chatbot for Messenger using Wit.ai and React',
+        'Improved the natural language understanding and generation capabilities of the chatbot using state-of-the-art techniques and algorithms',
+        'Tested and deployed the chatbot to production using AWS'
+      ]
+    }
+  ],
+  interests: [
+    {
+      name: 'Cricket',
+      level: 'Expert'
+    },
+    {
+      name: 'Music',
+      level: 'Intermediate'
+    },
+    {
+      name: 'Art',
+      level: 'Beginner'
+    }
+  ]
+}
+```
+
