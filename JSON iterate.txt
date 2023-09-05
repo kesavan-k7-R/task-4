@@ -1,0 +1,22 @@
+// Assuming the JSON object is stored in a variable called data
+// For loop
+for (let i = 0; i < data.length; i++) {
+  console.log(data[i]); // Prints each element of the array
+}
+
+// For in loop
+for (let key in data) {
+  console.log(key, data[key]); // Prints each key and value pair of the object
+}
+
+// For of loop
+for (let value of data) {
+  console.log(value); // Prints each value of the iterable object
+}
+
+// For each loop
+data.forEach(function(value, index) {
+  console.log(index, value); // Prints each index and value pair of the array
+});
+```
+
